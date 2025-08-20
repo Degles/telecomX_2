@@ -98,13 +98,11 @@ O modelo **Random Forest Otimizado** foi o campeão, demonstrando uma excelente 
 
 #### Fatores Mais Importantes para Prever o Churn:
 
-*Para adicionar este gráfico ao seu README no GitHub, salve a imagem gerada pelo código e use o seguinte markdown:*
-`![Importância das Variáveis](caminho/para/sua/imagem_importancia.png)`
+![Gráfico de Importância das Variáveis](importancia_variaveis.png)
 
 #### Matriz de Confusão do Modelo Final:
 
-*Para adicionar a Matriz de Confusão ao seu README, salve a imagem e use:*
-`![Matriz de Confusão](caminho/para/sua/imagem_matriz.png)`
+![Matriz de Confusão do Modelo Otimizado](matriz_confusao.png)
 
 ## 💡 Recomendações Estratégicas
 
