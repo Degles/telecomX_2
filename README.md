@@ -98,11 +98,11 @@ O modelo **Random Forest Otimizado** foi o campeão, demonstrando uma excelente 
 
 #### Fatores Mais Importantes para Prever o Churn:
 
-![Gráfico de Importância das Variáveis](imagens/importancia_variaveis.png)
+![Gráfico de Importância das Variáveis](importancia_variaveis.png)
 
 #### Matriz de Confusão do Modelo Final:
 
-![Matriz de Confusão do Modelo Otimizado](imagens/matriz_confusao.png)
+![Matriz de Confusão do Modelo Otimizado](matriz_confusao.png)
 
 ## 💡 Recomendações Estratégicas
 
